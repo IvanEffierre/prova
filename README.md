@@ -1,6 +1,6 @@
 ﻿# prova
 # prova
-<a  href="test.html#id" target="_blank">NOME</a>
+<a  href="#id" target="_blank">NOME</a>
 # prova
 # prova
 # prova
