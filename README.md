@@ -1,6 +1,6 @@
 ﻿# prova
 # prova
-<a  href="#id" target="_blank">
+<a  href="#prova" target="_blank">
 # prova
 </a>
 # prova
@@ -1480,5 +1480,5 @@ re
 r
 
 r
-<div id="id"># aaaprova</div>
+<div id="prova"># aaaprova</div>
 # prova
