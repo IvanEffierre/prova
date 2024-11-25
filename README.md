@@ -71,19 +71,19 @@ A atividade extensionista oferece ao aluno a oportunidade de ser um agente trans
 
 ## Critérios de avaliação:
 Os critérios utilizados para a avaliação dos alunos na Atividade de Extensão serão: <br>
-1 desenvolvimento e entrega das atividades estabelecidas no Roteiro de Extensão, conforme o objetivo descrito acima na Seção <b>Objetivo;</b>
-2 pontualidade nas entregas; 
-3 linguagem adequada, correção ortográfica, clareza e objetividade; 
+1 desenvolvimento e entrega das atividades estabelecidas no Roteiro de Extensão, conforme o objetivo descrito acima na Seção <b>Objetivo;</b> <br>
+2 pontualidade nas entregas; <br>
+3 linguagem adequada, correção ortográfica, clareza e objetividade; <br>
 4 autoavaliação discente com relato das experiências vivenciadas durante a participação na atividade de extensão.
 
 ## Sobre recursos, linguagens e frameworks utilizados:
 Seguindo o cronograma e exigencias de ferramentas na plataforma da Unidade de Ensino, através de material divulgado pelo corpo docente, foram utilizadas as seguintes ferramentas e suas versões: <br>
-<b> Expo - </b>Versão Expo: expo@52.0.6 <br>
-<b> React-Native - </b>Versão React-Native: react-native@0.76.1 <br>
-<b> Visual Studio Code - </b>Versão VSCode: 1.95.3 (user setup)<br>
-<b> Node.js - </b>Versão Node.js: v22.11.0<br>
-<b> Java - </b>Versão Java: "1.8.0_431"<br>
-Obs.: Vários pacotes e ou bibliotecas do React-Native foram utilizados, bem como extensões do VSCode.
+<b> Expo - </b><i>Versão Expo: </i>expo@52.0.6 <br>
+<b> React-Native - </b><i>Versão React-Native:</i> react-native@0.76.1 <br>
+<b> Visual Studio Code - </b><i>Versão VSCode:</i> VSCode 1.95.3 (user setup)<br>
+<b> Node.js - </b><i>Versão Node.js: </i> Node.js v22.11.0<br>
+<b> Java - </b><i>Versão Java: </i> Java "1.8.0_431"<br>
+<i>Obs.: Vários pacotes e ou bibliotecas do React-Native foram utilizados, bem como extensões do VSCode.</i>
 
 ## Considerações finais:
 Este repositório é parte da documentação oficial, elaborada pelo corpo docente da IES, composto integrante da disciplina Programação para Dispositivos Móveis em Android, seção "ROTEIRO DE EXTENSÃO DE PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS EM ANDROID", a ser executado como parte do processo de upload dos arquivos das evidências, descrito na página 4/4 do material  Roteiro de Aprendizagem, divulgado em Conteúdos Complementares (2).
