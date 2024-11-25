@@ -80,7 +80,7 @@ Os critérios utilizados para a avaliação dos alunos na Atividade de Extensão
 Seguindo o cronograma e exigencias de ferramentas na plataforma da Unidade de Ensino, através de material divulgado pelo corpo docente, foram utilizadas as seguintes ferramentas e suas versões: <br>
 <b> Expo - </b><i>Versão Expo: </i>expo@52.0.6 <br>
 <b> React-Native - </b><i>Versão React-Native:</i> react-native@0.76.1 <br>
-<b> Visual Studio Code - </b><i>Versão VSCode:</i> VSCode 1.95.3 (user setup)<br>
+<b> Visual Studio Code - </b><i>Versão VSCode:</i> VSCode 1.95.3 (user setup) <br>
 <b> Node.js - </b><i>Versão Node.js: </i> Node.js v22.11.0<br>
 <b> Java - </b><i>Versão Java: </i> Java "1.8.0_431" <br>
 <i>Obs.: Vários pacotes e ou bibliotecas do React-Native foram utilizados, bem como extensões do VSCode.</i>
